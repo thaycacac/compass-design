@@ -1,0 +1,149 @@
+{
+  "about": {
+    "homepage": "https://www.ladle.dev",
+    "github": "https://github.com/tajo/ladle",
+    "version": 1
+  },
+  "stories": {
+    "alert--variants": {
+      "name": "Variants",
+      "levels": [
+        "Alert"
+      ],
+      "locStart": 14,
+      "locEnd": 46,
+      "filePath": "src/alert/alert.stories.tsx",
+      "meta": {}
+    },
+    "alert--dismissible": {
+      "name": "Dismissible",
+      "levels": [
+        "Alert"
+      ],
+      "locStart": 50,
+      "locEnd": 81,
+      "filePath": "src/alert/alert.stories.tsx",
+      "meta": {}
+    },
+    "avatar--variants": {
+      "name": "Variants",
+      "levels": [
+        "Avatar"
+      ],
+      "locStart": 17,
+      "locEnd": 50,
+      "filePath": "src/avatar/avatar.stories.tsx",
+      "meta": {}
+    },
+    "avatar--group": {
+      "name": "Group",
+      "levels": [
+        "Avatar"
+      ],
+      "locStart": 52,
+      "locEnd": 64,
+      "filePath": "src/avatar/avatar.stories.tsx",
+      "meta": {}
+    },
+    "badge--variants": {
+      "name": "Variants",
+      "levels": [
+        "Badge"
+      ],
+      "locStart": 5,
+      "locEnd": 21,
+      "filePath": "src/badge/badge.stories.tsx",
+      "meta": {}
+    },
+    "badge--colors": {
+      "name": "Colors",
+      "levels": [
+        "Badge"
+      ],
+      "locStart": 23,
+      "locEnd": 58,
+      "filePath": "src/badge/badge.stories.tsx",
+      "meta": {}
+    },
+    "breadcrumbs--default": {
+      "name": "Default",
+      "levels": [
+        "Breadcrumbs"
+      ],
+      "locStart": 5,
+      "locEnd": 18,
+      "filePath": "src/breadcrumbs/breadcrumbs.stories.tsx",
+      "meta": {}
+    },
+    "breadcrumbs--custom-divider": {
+      "name": "Custom divider",
+      "levels": [
+        "Breadcrumbs"
+      ],
+      "locStart": 20,
+      "locEnd": 28,
+      "filePath": "src/breadcrumbs/breadcrumbs.stories.tsx",
+      "meta": {}
+    },
+    "button--variants": {
+      "name": "Variants",
+      "levels": [
+        "Button"
+      ],
+      "locStart": 17,
+      "locEnd": 158,
+      "filePath": "src/button/button.stories.tsx",
+      "meta": {}
+    },
+    "button--sizes": {
+      "name": "Sizes",
+      "levels": [
+        "Button"
+      ],
+      "locStart": 160,
+      "locEnd": 192,
+      "filePath": "src/button/button.stories.tsx",
+      "meta": {}
+    },
+    "input--variants": {
+      "name": "Variants",
+      "levels": [
+        "Input"
+      ],
+      "locStart": 7,
+      "locEnd": 78,
+      "filePath": "src/input/input.stories.tsx",
+      "meta": {}
+    },
+    "link--links": {
+      "name": "Links",
+      "levels": [
+        "Link"
+      ],
+      "locStart": 4,
+      "locEnd": 11,
+      "filePath": "src/link/link.stories.tsx",
+      "meta": {}
+    },
+    "spinner--spinners": {
+      "name": "Spinners",
+      "levels": [
+        "Spinner"
+      ],
+      "locStart": 4,
+      "locEnd": 19,
+      "filePath": "src/spinner/spinner.stories.tsx",
+      "meta": {}
+    },
+    "textarea--variants": {
+      "name": "Variants",
+      "levels": [
+        "Textarea"
+      ],
+      "locStart": 6,
+      "locEnd": 29,
+      "filePath": "src/textarea/textarea.stories.tsx",
+      "meta": {}
+    }
+  }
+}
