@@ -70,8 +70,8 @@
       "levels": [
         "Breadcrumbs"
       ],
-      "locStart": 5,
-      "locEnd": 18,
+      "locStart": 10,
+      "locEnd": 21,
       "filePath": "src/breadcrumbs/breadcrumbs.stories.tsx",
       "meta": {}
     },
@@ -80,8 +80,8 @@
       "levels": [
         "Breadcrumbs"
       ],
-      "locStart": 20,
-      "locEnd": 28,
+      "locStart": 23,
+      "locEnd": 31,
       "filePath": "src/breadcrumbs/breadcrumbs.stories.tsx",
       "meta": {}
     },
@@ -91,7 +91,7 @@
         "Button"
       ],
       "locStart": 17,
-      "locEnd": 158,
+      "locEnd": 138,
       "filePath": "src/button/button.stories.tsx",
       "meta": {}
     },
@@ -100,19 +100,9 @@
       "levels": [
         "Button"
       ],
-      "locStart": 160,
-      "locEnd": 192,
+      "locStart": 140,
+      "locEnd": 177,
       "filePath": "src/button/button.stories.tsx",
-      "meta": {}
-    },
-    "input--variants": {
-      "name": "Variants",
-      "levels": [
-        "Input"
-      ],
-      "locStart": 7,
-      "locEnd": 78,
-      "filePath": "src/input/input.stories.tsx",
       "meta": {}
     },
     "link--links": {
@@ -125,13 +115,23 @@
       "filePath": "src/link/link.stories.tsx",
       "meta": {}
     },
+    "searchfield--variants": {
+      "name": "Variants",
+      "levels": [
+        "Searchfield"
+      ],
+      "locStart": 5,
+      "locEnd": 20,
+      "filePath": "src/searchfield/searchfield.stories.tsx",
+      "meta": {}
+    },
     "spinner--spinners": {
       "name": "Spinners",
       "levels": [
         "Spinner"
       ],
       "locStart": 4,
-      "locEnd": 19,
+      "locEnd": 23,
       "filePath": "src/spinner/spinner.stories.tsx",
       "meta": {}
     },
@@ -141,8 +141,18 @@
         "Textarea"
       ],
       "locStart": 6,
-      "locEnd": 29,
+      "locEnd": 36,
       "filePath": "src/textarea/textarea.stories.tsx",
+      "meta": {}
+    },
+    "textfield--variants": {
+      "name": "Variants",
+      "levels": [
+        "Textfield"
+      ],
+      "locStart": 7,
+      "locEnd": 78,
+      "filePath": "src/textfield/textfield.stories.tsx",
       "meta": {}
     }
   }
