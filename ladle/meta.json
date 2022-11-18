@@ -105,6 +105,26 @@
       "filePath": "src/button/button.stories.tsx",
       "meta": {}
     },
+    "card--sizes": {
+      "name": "Sizes",
+      "levels": [
+        "Card"
+      ],
+      "locStart": 12,
+      "locEnd": 62,
+      "filePath": "src/card/card.stories.tsx",
+      "meta": {}
+    },
+    "card--variants": {
+      "name": "Variants",
+      "levels": [
+        "Card"
+      ],
+      "locStart": 64,
+      "locEnd": 93,
+      "filePath": "src/card/card.stories.tsx",
+      "meta": {}
+    },
     "checkbox--variants": {
       "name": "Variants",
       "levels": [
