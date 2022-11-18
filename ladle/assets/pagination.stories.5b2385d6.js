@@ -1,0 +1,1 @@
+import{P as t}from"./pagination.24b56b82.js";import{a as o}from"./index.0f267953.js";import"./index.b548d30f.js";import"./module.1d848da1.js";import"./index.9b358eec.js";import"./use-dom-ref.19239e33.js";const d=()=>o(t,{total:10});typeof window<"u"&&window.document&&window.document.createElement&&document.documentElement.setAttribute("data-storyloaded","");export{d as Variants};

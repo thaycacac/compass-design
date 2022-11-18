@@ -105,6 +105,26 @@
       "filePath": "src/button/button.stories.tsx",
       "meta": {}
     },
+    "checkbox--variants": {
+      "name": "Variants",
+      "levels": [
+        "Checkbox"
+      ],
+      "locStart": 6,
+      "locEnd": 90,
+      "filePath": "src/checkbox/checkbox.stories.tsx",
+      "meta": {}
+    },
+    "checkbox--state": {
+      "name": "State",
+      "levels": [
+        "Checkbox"
+      ],
+      "locStart": 92,
+      "locEnd": 109,
+      "filePath": "src/checkbox/checkbox.stories.tsx",
+      "meta": {}
+    },
     "link--links": {
       "name": "Links",
       "levels": [
@@ -113,6 +133,16 @@
       "locStart": 4,
       "locEnd": 11,
       "filePath": "src/link/link.stories.tsx",
+      "meta": {}
+    },
+    "pagination--variants": {
+      "name": "Variants",
+      "levels": [
+        "Pagination"
+      ],
+      "locStart": 3,
+      "locEnd": 5,
+      "filePath": "src/pagination/pagination.stories.tsx",
       "meta": {}
     },
     "searchfield--variants": {
@@ -133,6 +163,16 @@
       "locStart": 4,
       "locEnd": 23,
       "filePath": "src/spinner/spinner.stories.tsx",
+      "meta": {}
+    },
+    "table--full-featured": {
+      "name": "Full featured",
+      "levels": [
+        "Table"
+      ],
+      "locStart": 23,
+      "locEnd": 261,
+      "filePath": "src/table/table.stories.tsx",
       "meta": {}
     },
     "textarea--variants": {
